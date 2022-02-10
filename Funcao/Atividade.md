@@ -7,6 +7,6 @@ Curso Funções
 2. Percorra o array e popule um novo array auxiliar apenas com os alunos cujas notas são maiores ou iguais à média final;
 3. Utilize a técnica "object destructuring" para manipular as propriedades desejadas de cada aluno.
 
-<h3>Atividade 2: This<\h3>
+<h3>Atividade 2: This</h3>
 
 Dada a função `calculaIdade`, utilize os métodos call e apply para modificar o valor de `this`. Crie seus próprios objetos para esta atividade!
